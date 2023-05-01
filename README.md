@@ -5,7 +5,7 @@
 
   
   <a href="https://jiko1456.tistory.com"><img src="https://img.shields.io/badge/TechBlog-000B1D?\style=flat&logo=githubsponsors&logoColor=white"/></a>
-  <a href="https://sleet-elbow-849.notion.site/Portfolio-eb15be9945c748c487833354bd7fb928"><img src="https://img.shields.io/badge/-Portfolio-8B8B8B?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Portfolio-eb15be9945c748c487833354bd7fb928"><img src="https://img.shields.io/badge/-Portfolio-8B8B8B?style=flat-square&logo=Notion&logoColor=white"/></a>
 
   
    🎓 경기대학교 컴퓨터공학부 졸업  
