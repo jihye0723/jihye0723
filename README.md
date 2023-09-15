@@ -1,14 +1,14 @@
 <div align="center"> 
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiko1456"/>
   
-## ☁️ JIHYE CHOI ☁️
-
+<!--## ☁️ JIHYE CHOI ☁️-->
+  ## ☁️ HELLO ☁️
   
   <a href="https://jiko1456.tistory.com"><img src="https://img.shields.io/badge/TechBlog-000B1D?\style=flat&logo=githubsponsors&logoColor=white"/></a>
   <a href="https://www.notion.so/Portfolio-eb15be9945c748c487833354bd7fb928"><img src="https://img.shields.io/badge/-Portfolio-8B8B8B?style=flat-square&logo=Notion&logoColor=white"/></a>
 
   
-   🎓 경기대학교 컴퓨터공학부 졸업  
+   <!--🎓 경기대학교 컴퓨터공학부 졸업-->  
    🖥️ 삼성 청년 SW 아카데미 (SSAFY) 7기 
   
   <br>
